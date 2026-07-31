@@ -1,0 +1,6 @@
+{
+  "name": "Temp Mail",
+  "description": "Instant temporary email inbox generator and receiver with real-time inbox refresh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
